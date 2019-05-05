@@ -1,6 +1,6 @@
 # BestWeather
 
-An exercise in optimism.
+An exercise in optimism. Visit the deployed API [here](https://damp-beach-76188.herokuapp.com/weather).
 
 ## Running the API Locally
 
