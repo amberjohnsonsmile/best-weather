@@ -1,6 +1,7 @@
 # BestWeather
 
 An exercise in optimism. Visit the deployed API [here](https://damp-beach-76188.herokuapp.com/weather).
+View the frontend code [here](github.com/amberjohnsonsmile/client-best-weather).
 
 ## Running the API Locally
 
@@ -11,6 +12,9 @@ An exercise in optimism. Visit the deployed API [here](https://damp-beach-76188.
 1. Visit the endpoints at localhost:8080.
 
 ## Technologies
+* React.js
+* Node.js
+* Material UI
 * Java
 * Spring Boot
 * Gradle
