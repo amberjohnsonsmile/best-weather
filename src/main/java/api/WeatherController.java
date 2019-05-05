@@ -12,7 +12,7 @@ public class WeatherController {
   private static final String type = "sunny";
 
   @RequestMapping("/weather")
-  public Weather weather(@RequestParam(value="favorite", defaultValue="rainy") String favorite); {
+  public Weather weather(@RequestParam(value="favorite", defaultValue="rainy") String favorite) {
     return new Weather(high, low, type, favorite);
   }
 }
