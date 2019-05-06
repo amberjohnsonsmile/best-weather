@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 public class WeatherController {
-    
   private static final int high = 70;
   private static final int low = 50;
   private static final String type = "sunny";
