@@ -1,7 +1,7 @@
 # BestWeather
 
 An exercise in optimism. Visit the deployed API [here](https://damp-beach-76188.herokuapp.com/weather).
-View the frontend code [here](github.com/amberjohnsonsmile/client-best-weather).
+View the frontend code [here](https://github.com/amberjohnsonsmile/best-weather-client).
 
 ## Running the API Locally
 
